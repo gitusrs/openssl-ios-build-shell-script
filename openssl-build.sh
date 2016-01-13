@@ -1,5 +1,10 @@
 #!/bin/bash
 
+#  Created by FangYuan Gui on 13.01.16.
+#  Copyright 2011 FangYuan Gui. All rights reserved.
+#
+#  Licensed under the Apache License
+
 set -u
 
 OPENSSL_COMPRESSED_FN="openssl-1.0.2e.tar.gz"
